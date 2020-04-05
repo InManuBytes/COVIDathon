@@ -26,4 +26,4 @@
 - [Gas prices and infections](ThePumpAndTheVirus.md)
 
 ## Participants
-- [Checking in on loved ones](https://github.com/youokay/api). Original idea [here](YouOkay.md).
+- [Checking in on loved ones](https://github.com/youokay/api). Original idea [here](YouOkay.md). Team YouOkay?: [Tammy](https://github.com/ttreit), [Emily](https://github.com/emkwak), and [Manu](https://github.com/manuelag19).
