@@ -5,7 +5,7 @@
 - Add your idea to the list below
 - Use the [idea template](IdeaTemplate.md) to add the relevant info
 - Make a PR
-  
+
 ## Logistics
 
 - **Kick-off April 4, 2020 2:30pm** https://cutt.ly/wtACkjV
@@ -26,3 +26,4 @@
 - [Gas prices and infections](ThePumpAndTheVirus.md)
 
 ## Participants
+- [Checking in on loved ones](https://github.com/youokay/api). Original idea [here](YouOkay.md).
